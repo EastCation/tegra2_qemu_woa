@@ -7,8 +7,6 @@ on:
 
 jobs:
 
-  permissions: write-all
-
   build:
     runs-on: windows-latest
     strategy:
